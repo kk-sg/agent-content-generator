@@ -91,7 +91,7 @@ For a full list of dependencies, see `requirements.txt`.
 
 ## Live Demo
 
-Access the live Streamlit web application at [https://basic-conversation-chatbot.streamlit.app/](https://agent-content-generator.streamlit.app/)
+Access the live Streamlit web application at [https://agent-content-generator.streamlit.app/](https://agent-content-generator.streamlit.app/)
 
 ## Contributing
 
